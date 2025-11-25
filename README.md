@@ -1,5 +1,7 @@
 # the-simplest-quote-wallpaper-maker
 
+25-11-25: [Claude prototype](https://claude.ai/public/artifacts/59f29b20-8b9e-464e-8c7b-87ed9c132737)
+
 ## 1. Project Overview
 A simple and aesthetic app for generating personalized iPhone wallpapers. Users can select meaningful quotes and combine them with customizable backgrounds to create and save beautiful wallpapers, similar to Quiet Quote.
 
